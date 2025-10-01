@@ -1,4 +1,4 @@
-# Chee:U APP 프로젝트
+# KDT Final Project
 ## 스마트폰 카메라로 간편하게!
 ## Chee:U 직장인 스트레스 치유를 위한 디지털 바이오마커 활용 멘탈헬스 AI 솔루션
 
