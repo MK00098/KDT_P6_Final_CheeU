@@ -1,4 +1,4 @@
-# CheeU RAG+LLM Pipeline 아키텍처
+# CheeU RAG Pipeline 아키텍처
 
 ## 🏗️ 시스템 구조
 
