@@ -1,4 +1,4 @@
-# CheeU RAG+LLM Pipeline - Final Release v2.0
+# CheeU Chatbot RAG Pipeline
 
 ## 🎯 주요 개선사항 (v2.0)
 
