@@ -1,0 +1,59 @@
+# CheeU 치유캡슐 톡 - RAG Pipeline 2.0
+# AI 기반 개인화 멘탈 헬스케어 챗봇 시스템
+
+# 웹 인터페이스
+streamlit>=1.28.0
+streamlit-chat>=0.1.1
+
+# OpenAI & LLM
+openai>=1.0.0
+
+# LangChain & RAG
+langchain>=0.0.350
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+
+# 벡터 데이터베이스
+chromadb>=0.4.20
+chroma-hnswlib>=0.7.3
+
+# 임베딩 모델
+sentence-transformers>=2.2.2
+transformers>=4.35.0
+torch>=2.0.0
+
+# HuggingFace
+huggingface-hub>=0.19.0
+
+# 데이터 처리
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 환경 설정
+python-dotenv>=1.0.0
+
+# 유틸리티
+typing-extensions>=4.8.0
+pydantic>=2.0.0
+
+# HTTP 요청
+requests>=2.31.0
+urllib3>=2.0.0
+
+# 로깅
+logging>=0.4.9.6
+
+# 개발 도구 (선택사항)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# 테스팅 (선택사항)
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# 한국어 처리 (선택사항)
+konlpy>=0.6.0
+
+# 시각화 (선택사항)
+plotly>=5.17.0
+matplotlib>=3.7.0
